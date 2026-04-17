@@ -53,8 +53,9 @@
 
 
 # 📊 GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdulGhani9087&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulGhani9087&layout=compact&theme=dark)
+![Your GitHub stats](https://github-readme-stats.shion.dev/api?username=AbdulGhani9087&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.shion.dev/api/top-langs?username=AbdulGhani9087&layout=compact&theme=dark)
 
 
 
